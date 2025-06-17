@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "assert": "^2.1.0",
-    "monero-ts": "file:../monero-ts/monero-ts-0.11.4.tgz"
+    "monero-ts": "^0.11.5"
   }
 }
