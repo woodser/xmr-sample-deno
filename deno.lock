@@ -270,6 +270,11 @@
       "npm:http@^0.0.1-security",
       "npm:https@1",
       "npm:monero-ts@~0.11.3"
-    ]
+    ],
+    "packageJson": {
+      "dependencies": [
+        "npm:assert@^2.1.0"
+      ]
+    }
   }
 }
